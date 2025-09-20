@@ -9,10 +9,8 @@ const Footer = () => {
         <div className="footer-content-left">
           <img src={assets.chugli_logo} alt="" />
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi nisi
-            quibusdam perspiciatis alias cumque soluta neque voluptatibus sint
-            veniam similique deserunt illum adipisci maxime, esse aspernatur
-            quae blanditiis expedita fuga. Quidem reprehenderit aut deserunt.
+            This is my Full Stack Project
+            
           </p>
           <div className="footer-social-icon">
             <img src={assets.facebook_icon} alt="" />
@@ -39,7 +37,7 @@ const Footer = () => {
       </div>
       <hr />
       <p className="footer-copyright">
-        Copyright 2024 @Tomato.com - All Right Reserved.
+        Copyright 2024 @shashank.com - All Right Reserved.
       </p>
     </div>
   );
